@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+<h2>Somos da turma **1C**, números 2 e 8. </h2>
 
 <!--
 **Ana0034/Ana0034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
